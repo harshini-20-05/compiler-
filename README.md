@@ -1,6 +1,7 @@
 **COMPILER**
 
-
+**wec_compiler**
+   - this zip file consists of the following files as mentioned below:
 **wec_task.c** 
 . file contains the handwritten c code for lexer and parser.
 . It was done to get the idea of how does a lexer and parser work.
